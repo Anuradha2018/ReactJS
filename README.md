@@ -10,5 +10,5 @@ Learning React
       <li></li>
     </ul>
   </li>
-  <li>While rendering,  React maintains a 2 layers structure  React to 'Virtual DOM' then 'virtual DOM' renders to DOM </li>
+  <li>While rendering,  React maintains a 2 layered structure  firstly, React to 'Virtual DOM' secondly, 'virtual DOM' renders to DOM </li>
 </ul>
